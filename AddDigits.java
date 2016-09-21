@@ -8,7 +8,7 @@ public class AddDigits {
 		System.out.println("Please enter a number:");
 		String originalnumber = input.nextLine();
 
-		String nn1 = "tamengmengda";
+		String nn1 = "TAmengmengda";
 
 		while (nn1.length() != 1) {
 			int nn = 0;
